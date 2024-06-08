@@ -7,7 +7,7 @@ $name = "salim khan";
 $NAME = "SALIM KHAN";
 $namE = "saliM khaN";
 $Name_45 = "Salim_khan_10";
-$Name_10 = 10+10+20;
+$Name_10 = 10+10+20*20+(10*10)+10-2;
 
   
 
