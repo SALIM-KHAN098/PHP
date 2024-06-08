@@ -7,9 +7,9 @@ $name = "salim khan";
 $NAME = "SALIM KHAN";
 $namE = "saliM khaN";
 $Name_45 = "Salim_khan_10";
+$Nmae_10 = 10+10;
 
-
-
+  
 
 echo "Start with the first letter capital word ===> " . $Name . "<br>";
 echo "Start with the small letter word ===> " . $name. "<br>";
