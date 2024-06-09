@@ -27,7 +27,7 @@ echo var_dump($array)."<br><br>";
 $empty = null;
 echo var_dump($empty)."<br><br>";
 
-
+    
 
 
 
